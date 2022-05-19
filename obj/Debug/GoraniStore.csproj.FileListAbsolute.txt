@@ -1,0 +1,14 @@
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\bin\Debug\GoraniStore.exe.config
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\bin\Debug\GoraniStore.exe
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\bin\Debug\GoraniStore.pdb
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.csproj.AssemblyReference.cache
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.Properties.Resources.resources
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.csproj.GenerateResource.cache
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.csproj.CoreCompileInputs.cache
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.csproj.CopyComplete
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.exe
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.pdb
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\obj\Debug\GoraniStore.MainWindow.resources
+C:\Users\Yunis Surchy\source\repos\GoraniStore\GoraniStore\bin\Debug\Guna.UI2.dll
